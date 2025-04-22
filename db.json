@@ -1,0 +1,237 @@
+{
+  "teams": [
+    {
+      "id": "f6cc",
+      "name": "Kanto Legends",
+      "pokemon": [
+        {
+          "id": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+          "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif",
+          "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/3.gif",
+          "type": [
+            "grass",
+            "poison"
+          ],
+          "stats": [
+            {
+              "name": "hp",
+              "base": 80
+            },
+            {
+              "name": "attack",
+              "base": 82
+            },
+            {
+              "name": "defense",
+              "base": 83
+            },
+            {
+              "name": "special-attack",
+              "base": 100
+            },
+            {
+              "name": "special-defense",
+              "base": 100
+            },
+            {
+              "name": "speed",
+              "base": 80
+            }
+          ]
+        },
+        {
+          "id": 10245,
+          "name": "dialga-origin",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10245.png",
+          "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10245.png",
+          "back": null,
+          "type": [
+            "steel",
+            "dragon"
+          ],
+          "stats": [
+            {
+              "name": "hp",
+              "base": 100
+            },
+            {
+              "name": "attack",
+              "base": 100
+            },
+            {
+              "name": "defense",
+              "base": 120
+            },
+            {
+              "name": "special-attack",
+              "base": 150
+            },
+            {
+              "name": "special-defense",
+              "base": 120
+            },
+            {
+              "name": "speed",
+              "base": 90
+            }
+          ]
+        },
+        {
+          "id": 10036,
+          "name": "blastoise-mega",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10036.png",
+          "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10036.png",
+          "back": null,
+          "type": [
+            "water"
+          ],
+          "stats": [
+            {
+              "name": "hp",
+              "base": 79
+            },
+            {
+              "name": "attack",
+              "base": 103
+            },
+            {
+              "name": "defense",
+              "base": 120
+            },
+            {
+              "name": "special-attack",
+              "base": 135
+            },
+            {
+              "name": "special-defense",
+              "base": 115
+            },
+            {
+              "name": "speed",
+              "base": 78
+            }
+          ]
+        },
+        {
+          "id": 10197,
+          "name": "blastoise-gmax",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10197.png",
+          "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10197.png",
+          "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10197.png",
+          "type": [
+            "water"
+          ],
+          "stats": [
+            {
+              "name": "hp",
+              "base": 79
+            },
+            {
+              "name": "attack",
+              "base": 83
+            },
+            {
+              "name": "defense",
+              "base": 100
+            },
+            {
+              "name": "special-attack",
+              "base": 85
+            },
+            {
+              "name": "special-defense",
+              "base": 105
+            },
+            {
+              "name": "speed",
+              "base": 78
+            }
+          ]
+        },
+        {
+          "id": 384,
+          "name": "rayquaza",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+          "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif",
+          "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/384.gif",
+          "type": [
+            "dragon",
+            "flying"
+          ],
+          "stats": [
+            {
+              "name": "hp",
+              "base": 105
+            },
+            {
+              "name": "attack",
+              "base": 150
+            },
+            {
+              "name": "defense",
+              "base": 90
+            },
+            {
+              "name": "special-attack",
+              "base": 150
+            },
+            {
+              "name": "special-defense",
+              "base": 90
+            },
+            {
+              "name": "speed",
+              "base": 95
+            }
+          ]
+        },
+        {
+          "id": 10034,
+          "name": "charizard-mega-x",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10034.png",
+          "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10034.png",
+          "back": null,
+          "type": [
+            "fire",
+            "dragon"
+          ],
+          "stats": [
+            {
+              "name": "hp",
+              "base": 78
+            },
+            {
+              "name": "attack",
+              "base": 130
+            },
+            {
+              "name": "defense",
+              "base": 111
+            },
+            {
+              "name": "special-attack",
+              "base": 130
+            },
+            {
+              "name": "special-defense",
+              "base": 85
+            },
+            {
+              "name": "speed",
+              "base": 100
+            }
+          ]
+        }
+      ],
+      "selected": true
+    },
+    {
+      "id": "e8eb",
+      "name": "New",
+      "pokemon": [],
+      "selected": false
+    }
+  ]
+}
